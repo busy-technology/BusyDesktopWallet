@@ -1,6 +1,8 @@
 # Getting Started with Busy Desktop Wallet
 
-Available versions for now:
+We are currently migrating to our Kubernetes network. Once everything will be in place, we will be sharing the updated desktop wallet installation files.
+
+Available versions will be:
 1) Windows x64
 2) Linux
-3) MacOS - in progress
+3) MacOS (in progress)
