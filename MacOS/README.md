@@ -1,1 +1,1 @@
-# MacOS version not available yet
+# Installation of the Busy Wallet for macOS
