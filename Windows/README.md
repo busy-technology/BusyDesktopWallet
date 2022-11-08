@@ -1,1 +1,0 @@
-# Installation of the Busy Wallet for Windows operation system
